@@ -12,7 +12,7 @@ public class Tasks {
     @Column(name ="task_name")
     private String taskName;
     @Column(name ="description")
-    private String desctription;
+    private String description;
     @Column(name ="status")
     private String status;
     @ManyToOne(cascade = CascadeType.ALL)
@@ -37,11 +37,11 @@ public class Tasks {
     }
 
     public String getDesctription() {
-        return desctription;
+        return description;
     }
 
     public void setDesctription(String desctription) {
-        this.desctription = desctription;
+        this.description = desctription;
     }
 
     public String getStatus() {
