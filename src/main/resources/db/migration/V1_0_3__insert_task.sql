@@ -1,0 +1,18 @@
+insert into tasks values(1, 'describe requirements', 'based on business input', 'done');
+insert into tasks values(2, 'verify requirements with business', 'ask business to verify described requirements', 'done');
+insert into tasks values(3, 'create Epic in Jira & register stories', 'split the project in MVPs, stories, tasks', 'done');
+insert into tasks values(4, 'present to engineers', 'create visuals, introduce business need and stories, tasks', 'done');
+insert into tasks values(5, 'support IT analysis', 'answer questions', 'done');
+insert into tasks values(6, 'support development', 'answer questions, make decisions', 'done');
+insert into tasks values(7, 'plan target delivery', 'agree when and who will develop each part', 'done');
+insert into tasks values(8, 'organize testing', 'with all country supports, prepare testcases, guide', 'done');
+insert into tasks values(9, 'co-ordinate technical implementation', 'align technical implementation with business preparations', 'done');
+insert into tasks values(10, 'describe requirements', 'based on business needs', 'done');
+insert into tasks values(11, 'verify requirements with business', 'get verification from business for described requirements', 'done');
+insert into tasks values(12, 'create Epic in Jira & register stories', 'split in MVPs, register Epic, stories, tasks', 'done');
+insert into tasks values(13, 'present to engineers', 'create visuals, present the business need and stories, tasks', 'done');
+insert into tasks values(14, 'support IT analysis', 'answer questions', 'done');
+insert into tasks values(15, 'support development', 'answer questions, make decisions', 'in progress');
+insert into tasks values(16, 'plan target delivery', 'agree development timeline', 'in progress');
+insert into tasks values(17, 'organize testing', 'prepare test cases, guide country supports', 'in progress');
+insert into tasks values(18, 'co-ordinate technical implementation', 'agree with business when and how to implement service', 'in progress');
